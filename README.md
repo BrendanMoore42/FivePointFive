@@ -12,7 +12,7 @@ We use A1C numbers to calculate player power for every turn. Player rolls distri
 1. Navigate to target directory to hold files.
 2. Clone repo: 
     <br> $ git clone https://github.com/BrendanMoore42/FivePointFive
-3. In bash, use python3 if default python <= 3.6.
+3. In bash, use python3 if default python < 3.6.
     <br> $ python menu.py
 
 ### Gameplay
