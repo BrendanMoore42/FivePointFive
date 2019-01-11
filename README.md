@@ -11,9 +11,9 @@ We use A1C numbers to calculate player power for every turn. Player rolls distri
 ### Set-up
 1. Navigate to target directory to hold files.
 2. Clone repo: 
-    $ git clone https://github.com/BrendanMoore42/FivePointFive
+    <br> $ git clone https://github.com/BrendanMoore42/FivePointFive
 3. In bash,
-    $ python menu.py
+    <br> $ python menu.py
 
 ### Gameplay
 Modes
